@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="screenshots/main.png" alt="CanalCulator Pro" width="700"/>
+  <img src="screenshots/main.png" alt="CalcuLibre" width="700"/>
 </p>
 
-<h1 align="center">CanalCulator Pro</h1>
+<h1 align="center">CalcuLibre</h1>
 <h3 align="center">Titanium Edition</h3>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 ## La historia detras de esto
 
-Siempre quise una TI-Nspire CX II CAS. Desde que entre a ingenieria civil en la Universidad de Talca, vi como algunos compañeros la tenian y hacian cosas increibles: derivadas simbolicas, integrales definidas paso a paso, resolver sistemas de ecuaciones en segundos. Pero cuesta mas de $200 USD. Para un estudiante chileno, eso es demasiado.
+Siempre quise una TI-Nspire CX II CAS. Desde que entre a ingenieria comercial en la Universidad de Talca, vi como algunos compañeros la tenian y hacian cosas increibles: derivadas simbolicas, integrales definidas paso a paso, resolver sistemas de ecuaciones en segundos. Pero cuesta mas de $200 USD. Para un estudiante chileno, eso es demasiado.
 
 Asi que me puse a construir la mia propia. Pero no queria solo una imitacion — queria algo **mejor**. Mas modos de calculo, mas herramientas de ingenieria, graficos interactivos, y sobre todo: **gratis para todos**.
 
-CanalCulator Pro es el resultado. Una calculadora CAS de escritorio con motor algebraico completo, diseño inspirado en las TI Titanium, y cero costo.
+CalcuLibre es el resultado. Una calculadora CAS de escritorio con motor algebraico completo, diseño inspirado en las TI Titanium, y cero costo.
 
 ---
 
@@ -46,7 +46,7 @@ A diferencia de una calculadora comun que solo te da numeros, un CAS trabaja con
 - Opera con matrices de forma simbolica
 - Calcula transformadas de Laplace, series de Taylor/Maclaurin
 
-El motor CAS detras de CanalCulator Pro es **SymPy**, la misma libreria de algebra computacional que usan investigadores, universidades y herramientas profesionales en todo el mundo. Es open source, auditada por la comunidad cientifica, y con precision aritmetica arbitraria.
+El motor CAS detras de CalcuLibre es **SymPy**, la misma libreria de algebra computacional que usan investigadores, universidades y herramientas profesionales en todo el mundo. Es open source, auditada por la comunidad cientifica, y con precision aritmetica arbitraria.
 
 ### Como funciona internamente
 
@@ -63,7 +63,7 @@ Todo esto ocurre localmente en tu PC. No necesitas internet. No hay servidores. 
 
 ## Modos de calculo
 
-CanalCulator Pro tiene **13 modos de calculo**, cada uno optimizado para un tipo de problema:
+CalcuLibre tiene **13 modos de calculo**, cada uno optimizado para un tipo de problema:
 
 | Modo | Que hace | Ejemplo |
 |------|----------|---------|
@@ -201,6 +201,6 @@ Si te sirvio, compartelo con tus compañeros. Eso es todo lo que pido.
 
 <p align="center">
   <b>Francisco Aldunate</b><br>
-  Ingenieria Civil — Universidad de Talca<br>
+  Ingenieria Comercial — Universidad de Talca<br>
   2026
 </p>
