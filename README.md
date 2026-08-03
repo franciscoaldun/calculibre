@@ -200,7 +200,14 @@ Si te sirvio, compartelo con tus compañeros. Eso es todo lo que pido.
 ---
 
 <p align="center">
-  <b>Francisco Aldunate</b><br>
-  Ingenieria Comercial — Universidad de Talca<br>
+  <b>Francisco Aldunate Rodriguez</b><br>
+  Desarrollador web &#8212; Talca, Chile<br>
+  Ingenieria Comercial &#8212; Universidad de Talca<br>
   2026
+</p>
+
+<p align="center">
+  <a href="https://franciscoaldunate.cl"><b>franciscoaldunate.cl</b></a> &#183;
+  <a href="https://linktr.ee/franciscoaldun">linktr.ee/franciscoaldun</a> &#183;
+  <a href="https://github.com/franciscoaldun/bloomberg-chile">Bloomberg Chile</a>
 </p>
