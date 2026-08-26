@@ -150,17 +150,16 @@ Renderizadas en notacion matematica real (LaTeX), con las variables descritas.
 
 ## Instalacion
 
-### Opcion 1: Instalador (recomendado)
-1. Descarga `CanalculatorPro_Setup.exe` desde [Releases](https://github.com/franciscoaldun/calculibre/releases/latest)
-2. Ejecutalo
-3. Siguiente → Siguiente → Instalar
-4. Listo. Acceso directo en el escritorio
-
-### Opcion 2: Portable
-1. Descarga el `.zip` desde [Releases](https://github.com/franciscoaldun/calculibre/releases/latest)
+### Portable (recomendado)
+1. Descarga `CalcuLibre_v1.1_Portable.zip` desde [Releases](https://github.com/franciscoaldun/calculibre/releases/latest)
 2. Extrae donde quieras (USB, carpeta, donde sea)
-3. Ejecuta `CanalculatorPro.exe`
-4. No necesita instalacion
+3. Ejecuta `CalcuLibre.exe`
+4. No necesita instalacion, ni Python, ni Node
+
+### Instalador clasico
+El instalador `.exe` con asistente sigue disponible en la
+[v1.0.0](https://github.com/franciscoaldun/calculibre/releases/tag/v1.0.0),
+todavia publicado bajo el nombre anterior del proyecto.
 
 ### Requisitos
 - Windows 10/11 (64-bit)
