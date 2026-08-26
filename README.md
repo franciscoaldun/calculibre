@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/franciscoaldun/canalculator-pro/releases/latest">
+  <a href="https://github.com/franciscoaldun/calculibre/releases/latest">
     <img src="https://img.shields.io/badge/Descargar-Installer%20.exe-blue?style=for-the-badge&logo=windows" alt="Descargar"/>
   </a>
   <img src="https://img.shields.io/badge/Precio-GRATIS-brightgreen?style=for-the-badge" alt="Gratis"/>
@@ -133,12 +133,17 @@ Renderizadas en notacion matematica real (LaTeX), con las variables descritas.
 
 <p align="center">
   <img src="screenshots/cas_solving.png" alt="CAS Resolviendo ecuaciones" width="700"/>
-  <br><i>Resolviendo ecuaciones con el motor CAS</i>
+  <br><i>Integrales simbolicas resueltas por el motor CAS</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/installer.png" alt="Instalador" width="500"/>
-  <br><i>Instalador profesional — un clic y listo</i>
+  <img src="screenshots/derivative.png" alt="Derivada simbolica paso a paso" width="700"/>
+  <br><i>Derivadas simbolicas con desarrollo paso a paso</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/main.png" alt="Graficador 3D" width="700"/>
+  <br><i>Graficador de superficies 3D interactivo</i>
 </p>
 
 ---
@@ -146,13 +151,13 @@ Renderizadas en notacion matematica real (LaTeX), con las variables descritas.
 ## Instalacion
 
 ### Opcion 1: Instalador (recomendado)
-1. Descarga `CanalculatorPro_Setup.exe` desde [Releases](https://github.com/franciscoaldun/canalculator-pro/releases/latest)
+1. Descarga `CanalculatorPro_Setup.exe` desde [Releases](https://github.com/franciscoaldun/calculibre/releases/latest)
 2. Ejecutalo
 3. Siguiente → Siguiente → Instalar
 4. Listo. Acceso directo en el escritorio
 
 ### Opcion 2: Portable
-1. Descarga el `.zip` desde [Releases](https://github.com/franciscoaldun/canalculator-pro/releases/latest)
+1. Descarga el `.zip` desde [Releases](https://github.com/franciscoaldun/calculibre/releases/latest)
 2. Extrae donde quieras (USB, carpeta, donde sea)
 3. Ejecuta `CanalculatorPro.exe`
 4. No necesita instalacion
